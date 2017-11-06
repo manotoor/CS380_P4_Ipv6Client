@@ -106,5 +106,6 @@ public class Ipv6Client{
 			System.out.println("Something went wrong.");
 		}
 		//Disconnected from Server
+		System.out.println("Disconnected from server.");
 	}
 }
